@@ -15,4 +15,4 @@ Chaque adresse (bade de données) est composée de :
 
 Possibilité d'exporter au format CSV ses adresses.
 
-Les scritp de la base de données se trouve dans le répertoire "Formulaire d'inscription/util" le fichier porte le nom de "bd_adresse.sql".
+Les scripts de la base de données se trouve dans le répertoire "Formulaire d'inscription/util" le fichier porte le nom de "bd_adresse.sql".
