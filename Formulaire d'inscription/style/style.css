@@ -1,0 +1,67 @@
+
+a {
+	text-decoration: none !important;
+}
+
+/*----------------------------------------------------------
+					Formulaire d'inscription
+----------------------------------------------------------*/
+.inscriptionForm {
+	margin-top: 15%;
+	margin-left: 40%;
+	width: 50%;
+}
+
+#inputEmail, #passInput {
+	width: 225px;
+}
+
+/*----------------------------------------------------------
+					Formulaire d'ajout
+----------------------------------------------------------*/
+.ajoutForm {
+	margin-top: 2.5%;
+	margin-left: 25%;
+	width: 50%;
+}
+
+.btn-rounded {
+	width: 150px;
+	border-radius: 20px !important;
+}
+
+.white {
+	color: white !important;
+}
+
+/*----------------------------------------------------------
+					Formulaire de selection
+----------------------------------------------------------*/
+.selectForm {
+	margin-top: 15%;
+	margin-left: 35%;
+	width: 50%;
+}
+
+#person-select {
+	width: 250px;
+	margin-left: 3%;
+}
+
+/*----------------------------------------------------------
+					Formulaire de modification
+----------------------------------------------------------*/
+.modifForm {
+	margin-top: 2.5%;
+	margin-left: 25%;
+	width: 50%;
+}
+
+/*----------------------------------------------------------
+					Tableau d'adresses
+----------------------------------------------------------*/
+.marg {
+	margin-top: 1%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
