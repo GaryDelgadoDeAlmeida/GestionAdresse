@@ -11,4 +11,5 @@ Chaque adresse est composée de :
 - une ville
 - un pays
 - un numéro de téléphone
+
 Possibilité d'exporter au format CSV ses adresses.
